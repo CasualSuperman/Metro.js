@@ -19,29 +19,28 @@ var metro = metro || {
         },
         control: {
             /* Todo:
-             * Pivot
-             * Progress Indicator
-             * Border
-             * Check box
-             * Content control
-             * Content presenter
+             * Button
+             * CheckBox
              * Grid
-             * Hyperlink
+             * HyperlinkButton
              * Image
              * InkPresenter
              * ListBox
+             * Map
              * MediaElement
-             * Multi scale image
-             * Password box
-             * Progress bar
-             * Radio button
-             * Scroll viewer
+             * Panorama
+             * PasswordBox
+             * Pivot
+             * ProgressBar
+             * RadioButton
+             * ScrollViewer
              * Slider
+             * TextBlock
+             * TextBox
+             *
+             * ?:
              * Stack panel
-             * Text block
-             * Text box
              * Canvas
-             * Push button
              */
         }
     }
