@@ -28,6 +28,7 @@ var metro = metro || {
              * ListBox
              * Map
              * MediaElement
+			 * Page
              * Panorama
              * PasswordBox
              * Pivot
